@@ -1,0 +1,7 @@
+D:\C#\Multiplication_of_two_numbers\Multiplication_of_two_numbers\bin\Debug\Multiplication_of_two_numbers.exe.config
+D:\C#\Multiplication_of_two_numbers\Multiplication_of_two_numbers\bin\Debug\Multiplication_of_two_numbers.exe
+D:\C#\Multiplication_of_two_numbers\Multiplication_of_two_numbers\bin\Debug\Multiplication_of_two_numbers.pdb
+D:\C#\Multiplication_of_two_numbers\Multiplication_of_two_numbers\obj\Debug\Multiplication_of_two_numbers.csproj.AssemblyReference.cache
+D:\C#\Multiplication_of_two_numbers\Multiplication_of_two_numbers\obj\Debug\Multiplication_of_two_numbers.csproj.CoreCompileInputs.cache
+D:\C#\Multiplication_of_two_numbers\Multiplication_of_two_numbers\obj\Debug\Multiplication_of_two_numbers.exe
+D:\C#\Multiplication_of_two_numbers\Multiplication_of_two_numbers\obj\Debug\Multiplication_of_two_numbers.pdb
