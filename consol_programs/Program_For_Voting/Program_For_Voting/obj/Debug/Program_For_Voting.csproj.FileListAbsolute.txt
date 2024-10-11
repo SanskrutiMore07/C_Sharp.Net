@@ -1,0 +1,7 @@
+D:\C#\Program_For_Voting\Program_For_Voting\bin\Debug\Program_For_Voting.exe.config
+D:\C#\Program_For_Voting\Program_For_Voting\bin\Debug\Program_For_Voting.exe
+D:\C#\Program_For_Voting\Program_For_Voting\bin\Debug\Program_For_Voting.pdb
+D:\C#\Program_For_Voting\Program_For_Voting\obj\Debug\Program_For_Voting.csproj.AssemblyReference.cache
+D:\C#\Program_For_Voting\Program_For_Voting\obj\Debug\Program_For_Voting.csproj.CoreCompileInputs.cache
+D:\C#\Program_For_Voting\Program_For_Voting\obj\Debug\Program_For_Voting.exe
+D:\C#\Program_For_Voting\Program_For_Voting\obj\Debug\Program_For_Voting.pdb
