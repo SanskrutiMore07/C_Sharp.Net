@@ -1,0 +1,14 @@
+D:\C#\While_Loop\While_Loop\bin\Debug\While_Loop.exe.config
+D:\C#\While_Loop\While_Loop\bin\Debug\While_Loop.exe
+D:\C#\While_Loop\While_Loop\bin\Debug\While_Loop.pdb
+D:\C#\While_Loop\While_Loop\obj\Debug\While_Loop.csproj.AssemblyReference.cache
+D:\C#\While_Loop\While_Loop\obj\Debug\While_Loop.csproj.CoreCompileInputs.cache
+D:\C#\While_Loop\While_Loop\obj\Debug\While_Loop.exe
+D:\C#\While_Loop\While_Loop\obj\Debug\While_Loop.pdb
+D:\C#\consol_programs\While_Loop\While_Loop\bin\Debug\While_Loop.exe.config
+D:\C#\consol_programs\While_Loop\While_Loop\bin\Debug\While_Loop.exe
+D:\C#\consol_programs\While_Loop\While_Loop\bin\Debug\While_Loop.pdb
+D:\C#\consol_programs\While_Loop\While_Loop\obj\Debug\While_Loop.csproj.AssemblyReference.cache
+D:\C#\consol_programs\While_Loop\While_Loop\obj\Debug\While_Loop.csproj.CoreCompileInputs.cache
+D:\C#\consol_programs\While_Loop\While_Loop\obj\Debug\While_Loop.exe
+D:\C#\consol_programs\While_Loop\While_Loop\obj\Debug\While_Loop.pdb
