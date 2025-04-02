@@ -1,0 +1,7 @@
+D:\C#\consol_programs\Program_To_Find_Factorial_Of_Given_Number\bin\Debug\Program_To_Find_Factorial_Of_Given_Number.exe.config
+D:\C#\consol_programs\Program_To_Find_Factorial_Of_Given_Number\bin\Debug\Program_To_Find_Factorial_Of_Given_Number.exe
+D:\C#\consol_programs\Program_To_Find_Factorial_Of_Given_Number\bin\Debug\Program_To_Find_Factorial_Of_Given_Number.pdb
+D:\C#\consol_programs\Program_To_Find_Factorial_Of_Given_Number\obj\Debug\Program_To_Find_Factorial_Of_Given_Number.csproj.AssemblyReference.cache
+D:\C#\consol_programs\Program_To_Find_Factorial_Of_Given_Number\obj\Debug\Program_To_Find_Factorial_Of_Given_Number.csproj.CoreCompileInputs.cache
+D:\C#\consol_programs\Program_To_Find_Factorial_Of_Given_Number\obj\Debug\Program_To_Find_Factorial_Of_Given_Number.exe
+D:\C#\consol_programs\Program_To_Find_Factorial_Of_Given_Number\obj\Debug\Program_To_Find_Factorial_Of_Given_Number.pdb
