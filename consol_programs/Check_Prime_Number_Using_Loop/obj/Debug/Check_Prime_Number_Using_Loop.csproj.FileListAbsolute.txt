@@ -1,0 +1,7 @@
+D:\C#\consol_programs\Check_Prime_Number_Using_Loop\bin\Debug\Check_Prime_Number_Using_Loop.exe.config
+D:\C#\consol_programs\Check_Prime_Number_Using_Loop\bin\Debug\Check_Prime_Number_Using_Loop.exe
+D:\C#\consol_programs\Check_Prime_Number_Using_Loop\bin\Debug\Check_Prime_Number_Using_Loop.pdb
+D:\C#\consol_programs\Check_Prime_Number_Using_Loop\obj\Debug\Check_Prime_Number_Using_Loop.csproj.AssemblyReference.cache
+D:\C#\consol_programs\Check_Prime_Number_Using_Loop\obj\Debug\Check_Prime_Number_Using_Loop.csproj.CoreCompileInputs.cache
+D:\C#\consol_programs\Check_Prime_Number_Using_Loop\obj\Debug\Check_Prime_Number_Using_Loop.exe
+D:\C#\consol_programs\Check_Prime_Number_Using_Loop\obj\Debug\Check_Prime_Number_Using_Loop.pdb
