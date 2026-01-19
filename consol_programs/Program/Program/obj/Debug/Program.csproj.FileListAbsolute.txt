@@ -1,0 +1,7 @@
+D:\C#\consol_programs\Program\Program\bin\Debug\Program.exe.config
+D:\C#\consol_programs\Program\Program\bin\Debug\Program.exe
+D:\C#\consol_programs\Program\Program\bin\Debug\Program.pdb
+D:\C#\consol_programs\Program\Program\obj\Debug\Program.csproj.AssemblyReference.cache
+D:\C#\consol_programs\Program\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
+D:\C#\consol_programs\Program\Program\obj\Debug\Program.exe
+D:\C#\consol_programs\Program\Program\obj\Debug\Program.pdb
