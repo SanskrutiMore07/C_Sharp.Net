@@ -1,0 +1,6 @@
+D:\C#\consol_programs\Palindrom_Number\Palindrom_Number\bin\Debug\Palindrom_Number.exe.config
+D:\C#\consol_programs\Palindrom_Number\Palindrom_Number\bin\Debug\Palindrom_Number.exe
+D:\C#\consol_programs\Palindrom_Number\Palindrom_Number\bin\Debug\Palindrom_Number.pdb
+D:\C#\consol_programs\Palindrom_Number\Palindrom_Number\obj\Debug\Palindrom_Number.csproj.CoreCompileInputs.cache
+D:\C#\consol_programs\Palindrom_Number\Palindrom_Number\obj\Debug\Palindrom_Number.exe
+D:\C#\consol_programs\Palindrom_Number\Palindrom_Number\obj\Debug\Palindrom_Number.pdb
