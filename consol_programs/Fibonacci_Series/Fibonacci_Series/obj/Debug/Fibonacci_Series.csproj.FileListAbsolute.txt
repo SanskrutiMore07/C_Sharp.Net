@@ -1,0 +1,6 @@
+D:\C#\consol_programs\Fibonacci_Series\Fibonacci_Series\bin\Debug\Fibonacci_Series.exe.config
+D:\C#\consol_programs\Fibonacci_Series\Fibonacci_Series\bin\Debug\Fibonacci_Series.exe
+D:\C#\consol_programs\Fibonacci_Series\Fibonacci_Series\bin\Debug\Fibonacci_Series.pdb
+D:\C#\consol_programs\Fibonacci_Series\Fibonacci_Series\obj\Debug\Fibonacci_Series.csproj.CoreCompileInputs.cache
+D:\C#\consol_programs\Fibonacci_Series\Fibonacci_Series\obj\Debug\Fibonacci_Series.exe
+D:\C#\consol_programs\Fibonacci_Series\Fibonacci_Series\obj\Debug\Fibonacci_Series.pdb
