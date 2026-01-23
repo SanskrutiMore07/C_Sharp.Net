@@ -1,0 +1,6 @@
+D:\C#\consol_programs\Factorial_Number\Factorial_Number\bin\Debug\Factorial_Number.exe.config
+D:\C#\consol_programs\Factorial_Number\Factorial_Number\bin\Debug\Factorial_Number.exe
+D:\C#\consol_programs\Factorial_Number\Factorial_Number\bin\Debug\Factorial_Number.pdb
+D:\C#\consol_programs\Factorial_Number\Factorial_Number\obj\Debug\Factorial_Number.csproj.CoreCompileInputs.cache
+D:\C#\consol_programs\Factorial_Number\Factorial_Number\obj\Debug\Factorial_Number.exe
+D:\C#\consol_programs\Factorial_Number\Factorial_Number\obj\Debug\Factorial_Number.pdb
