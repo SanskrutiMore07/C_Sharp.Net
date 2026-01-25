@@ -1,0 +1,7 @@
+D:\C#\consol_programs\Swap_Two_Numbers\Swap_Two_Numbers\bin\Debug\Swap_Two_Numbers.exe.config
+D:\C#\consol_programs\Swap_Two_Numbers\Swap_Two_Numbers\bin\Debug\Swap_Two_Numbers.exe
+D:\C#\consol_programs\Swap_Two_Numbers\Swap_Two_Numbers\bin\Debug\Swap_Two_Numbers.pdb
+D:\C#\consol_programs\Swap_Two_Numbers\Swap_Two_Numbers\obj\Debug\Swap_Two_Numbers.csproj.AssemblyReference.cache
+D:\C#\consol_programs\Swap_Two_Numbers\Swap_Two_Numbers\obj\Debug\Swap_Two_Numbers.csproj.CoreCompileInputs.cache
+D:\C#\consol_programs\Swap_Two_Numbers\Swap_Two_Numbers\obj\Debug\Swap_Two_Numbers.exe
+D:\C#\consol_programs\Swap_Two_Numbers\Swap_Two_Numbers\obj\Debug\Swap_Two_Numbers.pdb
